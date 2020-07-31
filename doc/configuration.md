@@ -1,5 +1,7 @@
 # sms-over-xmpp configuration
 
+Added support for Teli 07/31/20. Just use type of teli provider need to pass in provider config:  token  api-id-from-portal
+
 sms-over-xmpp is configured by a collection of text files in a common
 configuration directory.  The configuration directory must contain at
 least three files:
